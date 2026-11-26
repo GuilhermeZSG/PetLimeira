@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\guilherme.zsguerrero\\source\\repos\\petlimeira\\petlimeira\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\guilherme.zsguerrero\\source\\repos\\petlimeira\\petlimeira\\forms\\animalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\animalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\guilherme.zsguerrero\\source\\repos\\petlimeira\\petlimeira\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\petlimeira\\forms\\animalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\animalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\guilherme.zsguerrero\\source\\repos\\petlimeira\\petlimeira\\models\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\models\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\guilherme.zsguerrero\\source\\repos\\petlimeira\\petlimeira\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\petlimeira\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\petlimeira\\forms\\tutorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\tutorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\guilherme.zsguerrero\\source\\repos\\petlimeira\\petlimeira\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\guilherme.zsguerrero\\source\\repos\\petlimeira\\petlimeira\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\guilherme.zsguerrero\\source\\repos\\petlimeira\\petlimeira\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|c:\\users\\guilherme.zsguerrero\\source\\repos\\petlimeira\\petlimeira\\services\\hashsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\services\\hashsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\petlimeira\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F687CB99-C46E-58EF-A4B7-3F2F05904732}|PetLimeira\\PetLimeira.csproj|solutionrelative:petlimeira\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Models\\Animal.cs",
+              "RelativeToolTip": "PetLimeira\\Models\\Animal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:46:36.457Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalForm.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Forms\\AnimalForm.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\AnimalForm.cs",
+              "ToolTip": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Forms\\AnimalForm.cs",
+              "RelativeToolTip": "PetLimeira\\Forms\\AnimalForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:32:07.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimalForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Forms\\AnimalForm.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\AnimalForm.cs",
+              "ToolTip": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Forms\\AnimalForm.cs [Projeto]",
+              "RelativeToolTip": "PetLimeira\\Forms\\AnimalForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:06:51.011Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Forms\\MainForm.cs",
+              "RelativeToolTip": "PetLimeira\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAUwHkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:00:53.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Forms\\MainForm.cs [Projeto]",
+              "RelativeToolTip": "PetLimeira\\Forms\\MainForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:00:38.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Models\\Usuario.cs",
+              "RelativeToolTip": "PetLimeira\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:52:24.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tutor.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Models\\Tutor.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Models\\Tutor.cs",
+              "ToolTip": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Models\\Tutor.cs",
+              "RelativeToolTip": "PetLimeira\\Models\\Tutor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:53:06.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tutorForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Forms\\tutorForm.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\tutorForm.cs",
+              "ToolTip": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Forms\\tutorForm.cs [Projeto]",
+              "RelativeToolTip": "PetLimeira\\Forms\\tutorForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:42:54.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HashSenha.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\services\\HashSenha.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\services\\HashSenha.cs",
+              "ToolTip": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\services\\HashSenha.cs",
+              "RelativeToolTip": "PetLimeira\\services\\HashSenha.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T01:09:37.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PetLimeira\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:11:35.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Program.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Program.cs",
+              "ToolTip": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Program.cs",
+              "RelativeToolTip": "PetLimeira\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:48:58.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "PetLimeira\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowE0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:38:56.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PetLimeira\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\guilherme.zsguerrero\\source\\repos\\PetLimeira\\PetLimeira\\Forms\\LoginForm.cs [Projeto]",
+              "RelativeToolTip": "PetLimeira\\Forms\\LoginForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:26:52.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
